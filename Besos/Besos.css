@@ -1,0 +1,18 @@
+/* Besos by Black Shark Studios is marked with CC0 1.0 */
+#blond{color: #FBF2C0;}
+#darkLava{color: #48392A;}
+#briste{color: #43281C;}
+#cooperRed{color: #C06E52;}
+#bittersweet{color: #F96F5D;}
+
+#blond{color: rgb(251, 242, 192);}
+#darkLava{color: rgb(72, 57, 42);}
+#briste{color: rgb(67, 40, 28);}
+#cooperRed{color: rgb(192, 110, 82);}
+#bittersweet{color: rgb(249, 111, 93);}
+
+#blond{color: hsl(51°, 88%, 87%);}
+#darkLava{color: hsl(30°, 26%, 22%);}
+#briste{color: hsl(18°, 41%, 19%);}
+#cooperRed{color: hsl(15°, 47%, 54%);}
+#bittersweet{color: hsl(7°, 93%, 67%);}

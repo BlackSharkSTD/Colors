@@ -1,0 +1,18 @@
+/* Bank On by Black Shark Studios is marked with CC0 1.0 */
+#oxfordBlue{color: #0A1128;}
+#royalBlueDark{color: #001F54;}
+#indigoBlue{color: #034078;}
+#celadonBlue{color: #1282A2;}
+#lightWhite1{color: #FEFCFB;}
+
+#oxfordBlue{color: rgb(10, 17, 40);}
+#royalBlueDark{color: rgb(0, 31, 84);}
+#indigoBlue{color: rgb(3, 64, 120);}
+#celadonBlue{color: rgb(18, 130, 162);}
+#lightWhite1{color: rgb(254, 252, 251);}
+
+#oxfordBlue{color: hsl(226°, 60%, 10%);}
+#royalBlueDark{color: hsl(218°, 100%, 16%);}
+#indigoBlue{color: hsl(209°, 95%, 24%);}
+#celadonBlue{color: hsl(193°, 80%, 35%);}
+#lightWhite1{color: hsl(20°, 60%, 99%);}
