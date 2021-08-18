@@ -1,0 +1,18 @@
+/* Brashy by Black Shark Studios is marked with CC0 1.0 */
+#bisque{color: #F9DBBD;}
+#lightSalmon{color: #FCA17D;}
+#blush{color: #DA627D;}
+#violetCrayola{color: #9A348E;}
+#darkAcuaBlue{color: #221066;}
+
+#bisque{color: rgb(249, 219, 189);}
+#lightSalmon{color: rgb(252, 161, 125);}
+#blush{color: rgb(218, 98, 125);}
+#violetCrayola{color: rgb(154, 52, 142);}
+#darkAcuaBlue{color: rgb(34, 16, 102);}
+
+#bisque{color: hsl(30°, 83%, 86%);}
+#lightSalmon{color: hsl(17°, 95%, 74%);}
+#blush{color: hsl(347°, 62%, 62%);}
+#violetCrayola{color: hsl(307°, 50%, 40%);}
+#darkAcuaBlue{color: hsl(253°, 73%, 23%);}
