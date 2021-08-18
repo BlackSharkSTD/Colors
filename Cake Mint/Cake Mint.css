@@ -1,0 +1,18 @@
+/* Cake Mint by Black Shark Studios is marked with CC0 1.0 */
+#lightPink{color: #E8AEB7;}
+#uranianBlue{color: #B8E1FF;}
+#paleCyan{color: #A9FFF7;}
+#mintGreen{color: #94FBAB;}
+#greenSheen{color: #82ABA1;}
+
+#lightPink{color: rgb(232, 174, 183);}
+#uranianBlue{color: rgb(184, 255, 255);}
+#paleCyan{color: rgb(169, 255, 247);}
+#mintGreen{color: rgb(148, 251, 171);}
+#greenSheen{color: rgb(130, 171, 161);}
+
+#lightPink{color: hsl(351°, 56%, 80%);}
+#uranianBlue{color: hsl(205°, 100%, 86%);}
+#paleCyan{color: hsl(174°, 100%, 83%);}
+#mintGreen{color: hsl(133°, 93%, 78%);}
+#greenSheen{color: hsl(165°, 20%, 59%);}

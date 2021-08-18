@@ -1,0 +1,18 @@
+/* Fire by Black Shark Studios is marked with CC0 1.0 */
+#red{color: #FF0000;}
+#orange{color: #FF9900;}
+#orangeYellow2{color: #FFC800;}
+#yellow{color: #FFFF00;}
+#darkRed{color: #6F1212;}
+
+#red{color: rgb(255, 0, 0);}
+#orange{color: rgb(255, 153, 0);}
+#orangeYellow2{color: rgb(255, 200, 0);}
+#yellow{color: rgb(255, 255, 0);}
+#darkRed{color: rgb(111, 18, 18);}
+
+#red{color: hsl(351°, 0%, 0%);}
+#orange{color: hsl(36°, 100%, 50%);}
+#orangeYellow2{color: hsl(47°, 100%, 50%);}
+#yellow{color: hsl(60°, 100%, 50%);}
+#darkRed{color: hsl(0°, 72%, 25%);}
