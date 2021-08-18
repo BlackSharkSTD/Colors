@@ -1,0 +1,18 @@
+/* Acelia by Black Shark Studios is marked with CC0 1.0 */
+#richBlackFrogra{color:#333333;}
+#cadetBlueCrayola{color:#666A86;}
+#middleBlue{color:#95B8D1;}
+#beauBlue{color:#E8DD85;}
+#culturedWhite{color:#EDAFB8;}
+
+#richBlackFrogra{color: rgb(51, 51, 51);}
+#cadetBlueCrayola{color: rgb(102, 106, 134);}
+#middleBlue{color: rgb(149, 184, 209);}
+#beauBlue{color: rgb(232, 221, 133);}
+#culturedWhite{color: rgb(237, 175, 184);}
+
+#richBlackFrogra{color: hsl(0°, 0%, 20%);}
+#cadetBlueCrayola{color: hsl(233°, 14%, 46%);}
+#middleBlue{color: hsl(205°, 39%, 70%);}
+#beauBlue{color: hsl(53°, 68%, 72%);}
+#culturedWhite{color: hsl(351°, 63%, 81%);}
