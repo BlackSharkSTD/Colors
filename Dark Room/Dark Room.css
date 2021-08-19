@@ -1,0 +1,18 @@
+/* Dark Room by Black Shark Studios is marked with CC0 1.0 */
+#darkPurpleWine{color: #2C1320;}
+#englishPurple{color: #5F4B66;}
+#wildBlueYonder{color: #A7ADC6;}
+#coolGrey{color: #8797AF;}
+#darkElectricBlue{color: #56667A;}
+
+#darkPurpleWine{color: rgb(44, 19, 32);}
+#englishPurple{color: rgb(95, 75, 102);}
+#wildBlueYonder{color: rgb(167, 173, 198);}
+#coolGrey{color: rgb(135, 151, 175);}
+#darkElectricBlue{color: rgb(86, 102, 122);}
+
+#darkPurpleWine{color: hsl(329°, 40%, 12%);}
+#englishPurple{color: hsl(284°, 15%, 35%);}
+#wildBlueYonder{color: hsl(228°, 21%, 72%);}
+#coolGrey{color: hsl(216°, 20%, 61%);}
+#darkElectricBlue{color: hsl(213°, 17%, 41%);}

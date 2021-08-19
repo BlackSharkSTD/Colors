@@ -1,0 +1,18 @@
+/* Hema by Black Shark Studios is marked with CC0 1.0 */
+#candyPink{color: #EA526F;}
+#lightGuayaba{color: #E76B74;}
+#desaturatedOrange{color: #D7AF70;}
+#desaturatedBrown{color: #937D64;}
+#darkGrayishGreen{color: #585B56;}
+
+#candyPink{color: rgb(234, 82, 111);}
+#lightGuayaba{color: rgb(231, 107, 116);}
+#desaturatedOrange{color: rgb(215, 175, 112);}
+#desaturatedBrown{color: rgb(147, 125, 100);}
+#darkGrayishGreen{color: rgb(88, 91, 86);}
+
+#candyPink{color: hsl(349°, 78%, 62%);}
+#lightGuayaba{color: hsl(356°, 72%, 66%);}
+#desaturatedOrange{color: hsl(37°, 56%, 64%);}
+#desaturatedBrown{color: hsl(32°, 19%, 48%);}
+#darkGrayishGreen{color: hsl(96°, 3%, 35%);}

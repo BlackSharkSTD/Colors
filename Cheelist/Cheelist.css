@@ -1,0 +1,18 @@
+/* Cheelist by Black Shark Studios is marked with CC0 1.0 */
+#arcticLime{color: #CEFF1A;}
+#oliveGreen{color: #AAA95A;}
+#middleGrey{color: #82816D;}
+#purpleNavy{color: #414066;}
+#darkJungleGreen{color: #1B2D2A;}
+
+#arcticLime{color: rgb(206, 255, 26);}
+#oliveGreen{color: rgb(170, 169, 90);}
+#middleGrey{color: rgb(130, 129, 109);}
+#purpleNavy{color: rgb(65, 64, 102);}
+#darkJungleGreen{color: rgb(27, 45, 42);}
+
+#arcticLime{color: hsl(73°, 100%, 55%);}
+#oliveGreen{color: hsl(59°, 32%, 51%);}
+#middleGrey{color: hsl(57°, 9%, 47%);}
+#purpleNavy{color: hsl(242°, 23%, 33%);}
+#darkJungleGreen{color: hsl(170°, 25%, 14%);}
