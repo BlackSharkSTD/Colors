@@ -1,0 +1,18 @@
+/* Veline by Black Shark Studios is marked with CC0 1.0 */
+#spaceCadet2{color: #2D3047;}
+#paoloVeroneseGreen{color: #419D78;}
+#indianYellow{color: #E0A458;}
+#lightOrange{color: #FFDBB5;}
+#fuchsiaCrayola{color: #C04ABC;}
+
+#spaceCadet2{color: rgb(45, 48, 71);}
+#paoloVeroneseGreen{color: rgb(65, 157, 120);}
+#indianYellow{color: rgb(224, 164, 88);}
+#lightOrange{color: rgb(255, 219, 181);}
+#fuchsiaCrayola{color: rgb(192, 74, 188);}
+
+#spaceCadet2{color: hsl(233°, 22%, 23%);}
+#paoloVeroneseGreen{color: hsl(156°, 41%, 44%);}
+#indianYellow{color: hsl(34°, 69%, 61%);}
+#lightOrange{color: hsl(31°, 100%, 85%);}
+#fuchsiaCrayola{color: hsl(302°, 48%, 52%);}

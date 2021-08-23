@@ -1,0 +1,18 @@
+/* Snow Tree by Black Shark Studios is marked with CC0 1.0 */
+#greenMunsell{color: #00A676;}
+#culturedWhite3{color: #F7F9F9;}
+#almond{color: #E0D0C1;}
+#blastOffBronze{color: #A76D60;}
+#bloodRed{color: #601700;}
+
+#greenMunsell{color: rgb(0, 166, 118);}
+#culturedWhite3{color: rgb(247, 249, 249);}
+#almond{color: rgb(224, 208, 193);}
+#blastOffBronze{color: rgb(167, 109, 96);}
+#bloodRed{color: rgb(96, 23, 0);}
+
+#greenMunsell{color: hsl(163°, 100%, 33%);}
+#culturedWhite3{color: hsl(180°, 14%, 97%);}
+#almond{color: hsl(29°, 33%, 82%);}
+#blastOffBronze{color: hsl(11°, 29%, 52%);}
+#bloodRed{color: hsl(14°, 100%, 19%);}

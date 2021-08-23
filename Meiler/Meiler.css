@@ -1,0 +1,18 @@
+/* Meiler by Black Shark Studios is marked with CC0 1.0 */
+#black2{color: #111111;}
+#sheetGreen{color: #22D457;}
+#dodgerBlue2{color: #22ADD4;}
+#lightGray{color: #E4E4E4;}
+#white{color: #FFFFFF;}
+
+#black2{color: rgb(17, 17, 17);}
+#sheetGreen{color: rgb(34, 212, 87);}
+#dodgerBlue2{color: rgb(34, 173, 212);}
+#lightGray{color: rgb(228, 228, 228);}
+#white{color: rgb(255, 255, 255);}
+
+#black2{color: hsl(0°, 0%, 7%);}
+#sheetGreen{color: hsl(138°, 72%, 48%);}
+#dodgerBlue2{color: hsl(193°, 72%, 48%);}
+#lightGray{color: hsl(0°, 0%, 89%);}
+#white{color: hsl(0°, 0%, 100%);}

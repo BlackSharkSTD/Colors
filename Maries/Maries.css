@@ -1,0 +1,18 @@
+/* Maries by Black Shark Studios is marked with CC0 1.0 */
+#yellowOrange{color: #FFA630;}
+#teaGreen{color: #D7E8BA;}
+#cadetBlue{color: #4DA1A9;}
+#yinBlue{color: #2E5077;}
+#tryrianPurple{color: #611C35;}
+
+#yellowOrange{color: rgb(255, 166, 48);}
+#teaGreen{color: rgb(215, 232, 186);}
+#cadetBlue{color: rgb(77, 161, 169);}
+#yinBlue{color: rgb(46, 80, 119);}
+#tryrianPurple{color: rgb(97, 28, 53);}
+
+#yellowOrange{color: hsl(34°, 100%, 59%);}
+#teaGreen{color: hsl(82°, 50%, 82%);}
+#cadetBlue{color: hsl(185°, 37%, 48%);}
+#yinBlue{color: hsl(212°, 44%, 32%);}
+#tryrianPurple{color: hsl(338°, 55%, 25%);}

@@ -1,0 +1,18 @@
+/* Sunset Pink by Black Shark Studios is marked with CC0 1.0 */
+#nightBlue{color: #28286C;}
+#palatinePurple{color: #693668;}
+#maximumRedPruple{color: #A74482;}
+#magentaCrayola{color: #F84AA7;}
+#radicalRed{color: #FF3562;}
+
+#nightBlue{color: rgb(40, 40, 108);}
+#palatinePurple{color: rgb(105, 54, 104);}
+#maximumRedPruple{color: rgb(167, 68, 130);}
+#magentaCrayola{color: rgb(248, 74, 167);}
+#radicalRed{color: rgb(255, 53, 98);}
+
+#nightBlue{color: hsl(240°, 46%, 29%);}
+#palatinePurple{color: hsl(301°, 32%, 31%);}
+#maximumRedPruple{color: hsl(322°, 42%, 46%);}
+#magentaCrayola{color: hsl(328°, 93%, 63%);}
+#radicalRed{color: hsl(347°, 100%, 60%);}

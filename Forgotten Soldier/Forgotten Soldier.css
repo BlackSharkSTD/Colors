@@ -1,0 +1,18 @@
+/* Forgotten Soldier by Black Shark Studios is marked with CC0 1.0 */
+#eireBlack3{color: #333333;}
+#white{color: #FFFFFF;}
+#independence{color: #4B4E6D;}
+#middleBlueGreen{color: #84DCC6;}
+#cadetGrey{color: #95A3B3;}
+
+#eireBlack3{color: rgb(51, 51, 51);}
+#white{color: rgb(255, 255, 255);}
+#independence{color: rgb(75, 78, 109);}
+#middleBlueGreen{color: rgb(132, 220, 198);}
+#cadetGrey{color: rgb(149, 163, 179);}
+
+#eireBlack3{color: hsl(0°, 0%, 20%);}
+#white{color: hsl(0°, 0%, 100%);}
+#independence{color: hsl(235°, 18%, 36%);}
+#middleBlueGreen{color: hsl(165°, 56%, 69%);}
+#cadetGrey{color: hsl(212°, 16%, 64%);}

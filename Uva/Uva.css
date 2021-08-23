@@ -1,0 +1,18 @@
+/* Uva by Black Shark Studios is marked with CC0 1.0 */
+#russianViolet{color: #42033D;}
+#tyrianPurple{color: #680E4B;}
+#darkMagenta{color: #7C238C;}
+#plum{color: #854798;}
+#rhythm{color: #7C72A0;}
+
+#russianViolet{color: rgb(66, 3, 61);}
+#tyrianPurple{color: rgb(104, 14, 75);}
+#darkMagenta{color: rgb(124, 35, 140);}
+#plum{color: rgb(133, 71, 152);}
+#rhythm{color: rgb(124, 114, 160);}
+
+#russianViolet{color: hsl(305°, 91%, 14%);}
+#tyrianPurple{color: hsl(319°, 76%, 23%);}
+#darkMagenta{color: hsl(291°, 60%, 34%);}
+#plum{color: hsl(286°, 36%, 44%);}
+#rhythm{color: hsl(253°, 19%, 54%);}
